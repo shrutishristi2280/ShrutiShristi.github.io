@@ -8,7 +8,7 @@ Passionate about building real-world security solutions and learning threat dete
 1. Self-Hosted ML Driven DDOS Mitigation System
    -Designed a prototype security framework to detect abnormal traffic patterns using machine learning concepts  
    -Focused on improving network resilience and reducing potential service disruption risk
-   - Implemented traffic log generation and feature extraction for security analysis
+   -Implemented traffic log generation and feature extraction for security analysis
 
 2.Behavioral Biometrics Authentication System(Ongoing)
   -Developing a deep learning-based authentication model for continuous user verification  
